@@ -1,0 +1,20 @@
+﻿Contributors: Shijie Liu
+Sarthak Agarwal
+Tanner Hoppough
+Kaiya Hogg
+Abdullah Syed Muadhuddin
+Instructor: Professor Alan Hunt
+Course: CSE 370 (Applied Human Computer Interaction and Interface Design)
+Date of Submission: 14 February 2022
+
+
+Document Title: Team Contract and Project Description
+Team’s Name: Index
+Team’s GitHub Repository: 
+https://github.com/CSE370HCI/index
+Team’s ZenHub Board: https://app.zenhub.com/workspaces/370-project-620a9b950403210019037b49/board
+Team’s alternate dispute resolution approach:
+Game of Stone-Paper-Scissor or a Game of Tic-Tac-Toe
+Our Vision:
+        Team Index aims to develop a web application that would enable the members of the UB community to borrow, rent, loan, buy and donate products amongst each other. The application will help students by providing them a platform to get essential items like books and laptop chargers on time at reasonable prices. Our platform is a social media application that will primarily be a university-specific online marketplace, but it would also enable our users to connect to other fellows at UB by becoming a forum where people can get to know newer people.
+        We all have been in situations where we forget items like chargers, laptops, books, and other college necessities at home while coming to the campus. Our application provides a solution to this problem by helping UB become a close-knit community where people can use an online platform to borrow, rent, loan, buy and donate products in case of need. Any individual who is a part of the UB community will be welcomed on our platform. Using a well-designed “web application”, we will try our best to provide our users an efficient and effective experience. We will use React frontend to create a user-friendly interface. We will implement chatting features, payment gateways, and a few other essential features using third-party (highly likely RESTful) APIs.
