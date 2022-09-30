@@ -1,5 +1,4 @@
-# HCI-Social Backend
-Backend/API layer for the UB CSE370 course project
+
 
 ## Getting Started
 First install the dependencies:
