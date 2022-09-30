@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "loggerFormat": "tiny",
+    "session": {
+      "expirationTimeouts": {
+        "inactivity": 86400
+      }
+    },
+    "disk": {
+      "driver": "local",
+      "local": {
+        "directory": "public/uploads"
+      }
+    },
+    "multipartRequests": {
+      "fileSizeLimit": 10485760
+    },
+    "staticPathPrefix": "env(API_PREFIX)",
+    "ajv": {
+      "coerceTypes": "array"
+    }
+  },
+  "api_prefix": "env(API_PREFIX)",
+  "listen_socket": "env(LISTEN_SOCKET)",
+  "listen_port": "env(LISTEN_PORT)",
+  "database_url": "env(DATABASE_URL)"
+}
